@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Luvella/Firework#readme",
   "dependencies": {
-    "eris": "^0.13.3",
+    "eris": "^0.13.4",
     "loggaby": "^3.0.1"
   },
   "devDependencies": {
